@@ -14,12 +14,14 @@ This code simulates the evolution of animals in a world. The world is a 2D map w
 Choosing parameters:
 
 ![solution](images_for_md/1.png)
+
 ![solution](images_for_md/2.png)
 
 
 Choosing types:
 
 ![solution](images_for_md/3.png)
+
 ![solution](images_for_md/4.png)
 
 Generated world map (first day):
@@ -39,6 +41,7 @@ Choosing animal to track:
 ![solution](images_for_md/7.png)
 
 Tracking animal parameters:
+
 ![solution](images_for_md/8.png)
 
 
